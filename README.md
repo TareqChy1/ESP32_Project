@@ -47,7 +47,7 @@ We just need to set the oled on top of esp32 on the breadboard and need to conne
 <img src="img/6.jpeg" lt="drawing" width="600" height="600">
 
 # Project video
-[Link](https://drive.google.com/drive/u/2/my-drive)
+[Video Link](https://drive.google.com/file/d/1M3obYse2qrbDxD9VziVpgURDnfOM63DO/view?usp=sharing)
 
 # References
 - [Monster](https://www.mfitzp.com/oled-displays-i2c-micropython/)
