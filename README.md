@@ -34,10 +34,10 @@ We just need to set the oled on top of esp32 on the breadboard and need to conne
 # Output with Second monster
 <img src="img/3.jpeg" lt="drawing" width="600" height="600">
 
-# Output with Second monster moving right
+# Output with Second monster moving right side.
 <img src="img/4.jpeg" lt="drawing" width="600" height="600">
 
-# Output with Second monster moving right more
+# Output with Second monster moving right side more.
 <img src="img/5.jpeg" lt="drawing" width="600" height="600">
 
 # Output with First monster again.
